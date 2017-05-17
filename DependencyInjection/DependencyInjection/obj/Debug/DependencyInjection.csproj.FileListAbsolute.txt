@@ -1,0 +1,6 @@
+C:\Source\Sandbox\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Source\Sandbox\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Source\Sandbox\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Source\Sandbox\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Source\Sandbox\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Source\Sandbox\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb

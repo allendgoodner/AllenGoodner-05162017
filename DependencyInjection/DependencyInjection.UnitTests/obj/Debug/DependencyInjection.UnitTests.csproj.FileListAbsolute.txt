@@ -1,0 +1,13 @@
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\DependencyInjection.UnitTests.dll
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\DependencyInjection.UnitTests.pdb
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\Castle.Core.dll
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\DependencyInjection.exe
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\Moq.dll
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\DependencyInjection.pdb
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\Castle.Core.xml
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\Moq.xml
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\obj\Debug\DependencyInjection.UnitTests.csprojResolveAssemblyReference.cache
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\obj\Debug\DependencyInjection.UnitTests.dll
+C:\Source\Sandbox\DependencyInjection\DependencyInjection.UnitTests\obj\Debug\DependencyInjection.UnitTests.pdb
